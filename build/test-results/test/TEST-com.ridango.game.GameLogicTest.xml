@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.ridango.game.GameLogicTest" tests="6" skipped="0" failures="0" errors="0" timestamp="2024-09-21T10:38:16" hostname="JEVGENI" time="0.7">
+  <properties/>
+  <testcase name="testGameOver()" classname="com.ridango.game.GameLogicTest" time="0.643"/>
+  <testcase name="testCorrectGuess()" classname="com.ridango.game.GameLogicTest" time="0.004"/>
+  <testcase name="testSaveResult()" classname="com.ridango.game.GameLogicTest" time="0.039"/>
+  <testcase name="testInitialization()" classname="com.ridango.game.GameLogicTest" time="0.002"/>
+  <testcase name="testIncorrectGuess()" classname="com.ridango.game.GameLogicTest" time="0.002"/>
+  <testcase name="testRevealRandomLetter()" classname="com.ridango.game.GameLogicTest" time="0.003"/>
+  <system-out><![CDATA[Score saved for Player1: 5
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
